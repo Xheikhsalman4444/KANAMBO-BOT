@@ -7,12 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254114148625', 'KANAMBO', true],
-  ['']
+  ['923184070915', 'GOJO SATORU', true],
+  ['923228980860', 'KEN KANEKI', true],
+  ['19294512260', 'TOUKA CHAN', true],
 ] //Number of owners
 
-global.mods = ['254114148625', '254114018035'] 
-global.prems = ['254114148625', '254114018035']
+global.mods = ['923184070915', '19294512260'] 
+global.prems = ['923184070915', '923228980860']
 
 // global.ai = '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', // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 // global.org = 'org-Wmzg6lcVPHGYXxmvPpM0CDsu',   
@@ -49,15 +50,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KANAMBO-BOT'
+global.botname = '𝙆𝘼𝙉𝙀𝙆𝙄-𝙈𝘿'
 global.premium = 'true'
-global.packname = 'KANAMBO┃ᴮᴼᵀ' 
-global.author = '@PETER MR.K' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n' 
+global.packname = '𝙆𝙀𝙉 𝙆𝘼𝙉𝙀𝙆𝙄' 
+global.author = '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/itz_shaikho\n' 
 global.dygp = 'https://chat.whatsapp.com/'
 global.fgsc = 'https://github.com/Kanambp/KANAMBO-BOT' 
-global.fgyt = 'https://youtube.com/'
-global.fgpyp = 'https://youtube.com/'
+global.fgyt = 'https://youtube.com/s4salmanyt'
+global.fgpyp = 'https://youtube.com/venomopi'
 global.fglog = 'https://cdn.jsdelivr.net/gh/Kanambp/kanamb@main/kanambo.jpg' 
 
 
